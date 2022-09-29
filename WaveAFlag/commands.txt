@@ -1,0 +1,3 @@
+ls -l warm 
+chmod +x warm
+sudo ./warm -h

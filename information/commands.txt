@@ -1,0 +1,10 @@
+file cat.jpg
+binwalk cat.jpg
+hexeditor cat.jpg
+
+found some base64 in hexeditor
+
+data1 = 'W5M0MpCehiHzreSzNTczkc9d'
+data2 = 'cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9'
+
+echo -n 'cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9' | base64 --decode

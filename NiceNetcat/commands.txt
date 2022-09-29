@@ -1,0 +1,3 @@
+tr -d '\n' < response.txt
+tr -s ' ' < response.txt
+ascii to text online

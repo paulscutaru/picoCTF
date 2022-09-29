@@ -1,0 +1,3 @@
+go into subdirectories
+file fang-of-haynekhtnamet
+./fang-of-haynekhtnamet
