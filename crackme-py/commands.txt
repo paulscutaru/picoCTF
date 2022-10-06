@@ -1,0 +1,3 @@
+call decode_secret() on the secret from script
+
+picoCTF{1|\/|_4_p34|\|ut_dd2c4616}
